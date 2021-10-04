@@ -7,6 +7,9 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <>
+        <h1>Card Hub App</h1>
+      </>
     </div>
   );
 }
