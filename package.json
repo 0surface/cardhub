@@ -11,7 +11,7 @@
     "@types/node": "^16.10.2",
     "@types/react": "^17.0.27",
     "next": "latest",
-    "next-auth": "^4.0.0-next.26",
+    "next-auth": "^3.29.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "typescript": "^4.4.3"
